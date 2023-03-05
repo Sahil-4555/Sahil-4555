@@ -78,4 +78,4 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
       src="https://profile-counter.glitch.me/SahilPatel146/count.svg" alt="Sahil's visitor count" /></a>
 </div>
 
-<img src="assets/footer.png" alt="Footer image">
+<!-- <img src="assets/footer.png" alt="Footer image"> -->
