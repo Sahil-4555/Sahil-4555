@@ -58,11 +58,24 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
   <div align="center">
   <img align="center"
       src="https://github-readme-streak-stats.herokuapp.com?user=SahilPatel146&hide_border=true" alt="Sahil's github stats" height="200" />
+</div>
+  </details>
+  <br/>
+ 
 
+<!-- <h2 align="center"><i>🎵 Spotify Status</i></h2>
+<p align="center">
+  <a href="https://open.spotify.com/user/0r6t956lbmezmq8uw79uud2wu">
+    <img src="https://SahilPatel146.vercel.app/api?rainbow=true&scan=true&spin=true&theme=dark" width="60%">
+  </a>
+</p>
+-->
+
+<div align="center">
 
   ## Visitor Count
   <a href="https://profile-counter.glitch.me/SahilPatel146/count.svg"><img align="center"
       src="https://profile-counter.glitch.me/SahilPatel146/count.svg" alt="Sahil's visitor count" /></a>
 </div>
 
-<!-- <img src="assets/footer.png" alt="Footer image"> -->
+<img src="assets/footer.png" alt="Footer image">
