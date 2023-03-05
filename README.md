@@ -8,7 +8,7 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
 
 <img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
 
-- 🏫 &nbsp; I'm student at Charotar University of Science & Technology completing my Bachelor's in Information Technology
+- 🏫 &nbsp; I'm Student at Charotar University of Science & Technology completing my Bachelor's in Information Technology
 - 🌱 &nbsp; I’m currently learning **C#, Cloud Computing, Golang**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SahilPatel146?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
