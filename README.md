@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+is+Sahil+Sojitra👨‍💻;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+is+Sahil+Sojitra+💻;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -21,7 +21,7 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
 - &nbsp;&nbsp;
  <p align="left">
 </p>
-<br/> <br/>
+<br/> <br/> <br/>
 <hr/>
 <p align="center">
 <h3 align="center">Connect with me</h3>
