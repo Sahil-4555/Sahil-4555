@@ -20,7 +20,7 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
 - ⚡ &nbsp; Fun fact: I :heart: :man_technologist:
  <p align="left">
 </p>
-<br/> <br/> <br/> <br/> <br/>
+<br/> <br/> <br/> <br/> <br/> <br/> <br/>
 <hr/>
 <p align="center">
 <h3 align="center">Connect with me</h3>
