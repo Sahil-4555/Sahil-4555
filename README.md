@@ -15,12 +15,18 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/sahilsojitra/)
 - ⚡ &nbsp; Fun fact: I :heart: :man_technologist:
  &nbsp;<p align="left">
-  <p align="left">
-    <a href="https://twitter.com/last__knight" alt="Twitter"><img src="assets/Icons/twitter.gif" width="40px"></a>
-    <a href="https://www.linkedin.com/in/sahilsojitra/" alt="Linkedin"><img src="assets/Icons/linkedin.gif" width="40px"></a>
-    <a href="mailto:sahilsojitra4555@gmail.com" alt="Contact me"><img src="assets/Icons/mail.gif" width="40px"></a>
-  </p>
 </p>
+
+<hr/>
+<p align="center">
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/sahilsojitra/"><img title="LinkedIn" src="https://github.com/SahilPatel146/SahilPatel146/blob/main/assets/Icons/linkedin.svg"/></a>&nbsp;&nbsp;
+<a href="https://github.com/SahilPatel146"><img title="GitHub" src="https://github.com/SahilPatel146/SahilPatel146/blob/main/assets/Icons/github.svg"/></a>&nbsp;&nbsp;
+<a href="mailto:sahilsojitra4555@gmail.com" alt="Contact me"><img src="assets/Icons/mail.gif" width="40px"></a>
+&nbsp;&nbsp;
+<hr/>
 <!--
 <hr>
 <h2>Watch my contributions graph eaten by snake 🐍</h2>
@@ -30,7 +36,17 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
   </a>
 </div>
 -->
-<hr>
+## :memo: Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SahilPatel146&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilPatel146&theme=radical" />
+</p>
+
+## 🔝 Most used languages
+<p align="center">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinal218&layout=compact&theme=radical" />
+</p>
 <!-- 
 <h2 align='center'><i><a href="https://github.com/SahilPatel146">Activity Graph 📈</i></h2>
 <p align="center">
@@ -41,27 +57,7 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
   </a>
 </p>
 -->
-<h2 align="center"><i>Github Stats & Languages Used</i></h2>
-<div align="center">
-  <a href="https://github.com/SahilPatel146/github-readme-stats"><img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=SahilPatel146&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
-      alt="Sahil's github stats" height="170" /></a> <a
-    href="https://github.com/SahilPatel146/github-readme-stats"><img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilPatel146&layout=compact&theme=buefy&hide_border=true"
-      height="170" /></a>
 
-</div>
- <br/>
- <details>
-  <summary>Some other facts</summary>
-  <br>
-  <div align="center">
-  <img align="center"
-      src="https://github-readme-streak-stats.herokuapp.com?user=SahilPatel146&hide_border=true" alt="Sahil's github stats" height="200" />
-</div>
-  </details>
-  <br/>
- 
 
 <!-- <h2 align="center"><i>🎵 Spotify Status</i></h2>
 <p align="center">
