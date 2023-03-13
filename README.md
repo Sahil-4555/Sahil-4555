@@ -1,4 +1,8 @@
-# Hi there <img src="assets/wave-hand.gif" width="5%">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sahil+Sojitra....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 I'm a passionate developer with expertise in Flutter, Golang, and Competitive Programming. I love to code and solve complex problems. As a Flutter developer, I have experience building beautiful and responsive cross-platform mobile applications. I'm also skilled in Golang, which I use for building high-performance web applications and microservices. Additionally, I enjoy participating in competitive programming contests and have honed my problem-solving skills through various coding challenges. Let's connect and build something amazing together!✨
 
@@ -6,7 +10,7 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
 
 ### 🧐 More About Me:
 
-<img align="right" alt="GIF" src="assets/programmer.gif" width="40%" />
+<img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
 
 - 🏫 &nbsp; I'm Student at Charotar University of Science & Technology completing my Bachelor's in Information Technology
 - 🌱 &nbsp; I’m currently learning **C#, Cloud Computing, Golang**
