@@ -21,7 +21,7 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
 - &nbsp;&nbsp;
  <p align="left">
 </p>
-<br/> <br/> <br/> <br/>
+<br/> <br/>
 <hr/>
 <p align="center">
 <h3 align="center">Connect with me</h3>
