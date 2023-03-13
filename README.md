@@ -18,8 +18,8 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
 </p>
 
 <hr/>
+<br/><br/><br/>
 <p align="center">
-
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sahilsojitra/"><img title="LinkedIn" src="https://github.com/SahilPatel146/SahilPatel146/blob/main/assets/Icons/linkedin.svg"/></a>&nbsp;&nbsp;
@@ -36,16 +36,16 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
   </a>
 </div>
 -->
-## :memo: Stats
+### Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SahilPatel146&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilPatel146&theme=radical" />
 </p>
 
-## 🔝 Most used languages
+### 🔝 Most used languages
 <p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinal218&layout=compact&theme=radical" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilPatel146&layout=compact&theme=radical" />
 </p>
 <!-- 
 <h2 align='center'><i><a href="https://github.com/SahilPatel146">Activity Graph 📈</i></h2>
