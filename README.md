@@ -38,7 +38,7 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
 </div>
 -->
 
-### Stats
+### Sahil's Github Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SahilPatel146&show_icons=true&theme=radical" />
