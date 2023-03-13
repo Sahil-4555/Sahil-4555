@@ -20,7 +20,7 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
 - ⚡ &nbsp; Fun fact: I :heart: :man_technologist:
  &nbsp;<p align="left">
 </p>
-
+<br/> <br/> <br/>
 <hr/>
 <br/><br/><br/>
 <p align="center">
@@ -39,7 +39,7 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
 </div>
 -->
 
-Stats
+### Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SahilPatel146&show_icons=true&theme=radical" />
