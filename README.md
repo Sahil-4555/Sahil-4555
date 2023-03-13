@@ -24,8 +24,6 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
 <p align="center">
 <a href="https://www.linkedin.com/in/sahilsojitra/"><img title="LinkedIn" src="https://github.com/SahilPatel146/SahilPatel146/blob/main/assets/Icons/linkedin.svg"/></a>&nbsp;&nbsp;
 <a href="https://github.com/SahilPatel146"><img title="GitHub" src="https://github.com/SahilPatel146/SahilPatel146/blob/main/assets/Icons/github.svg"/></a>&nbsp;&nbsp;
-<a href="mailto:sahilsojitra4555@gmail.com" alt="Contact me"><img src="assets/Icons/mail.gif" width="40px"></a>
-&nbsp;&nbsp;
 <hr/>
 <!--
 <hr>
@@ -36,11 +34,11 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
   </a>
 </div>
 -->
-### Stats
+
+Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SahilPatel146&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilPatel146&theme=radical" />
 </p>
 
 ### 🔝 Most used languages
