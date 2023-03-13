@@ -18,11 +18,10 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/sahilsojitra/)
 - ⚡ &nbsp; Fun fact: I :heart: :man_technologist:
- &nbsp;<p align="left">
+ <p align="left">
 </p>
-<br/> <br/> <br/>
+<br/> <br/> <br/> <br/>
 <hr/>
-<br/><br/><br/>
 <p align="center">
 <h3 align="center">Connect with me</h3>
 <p align="center">
