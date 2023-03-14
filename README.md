@@ -53,7 +53,7 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
 <p align="center">
   <a href="https://github.com/SahilPatel146">
     <img
-      src="https://activity-graph.herokuapp.com/graph?username=SahilPatel146&custom_title=Kaushal's%20Contribution%20Graph&theme=github&area=true&hide_border=true"
+      src="https://activity-graph.herokuapp.com/graph?username=SahilPatel146&custom_title=Sahil's%20Contribution%20Graph&theme=github&area=true&hide_border=true"
       width="100%">
   </a>
 </p>
