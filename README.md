@@ -44,7 +44,7 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SahilPatel146&show_icons=true&theme=radical" />
 </p>
 
-### 🔝 Most used languages
+### Most used languages
 <p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilPatel146&layout=compact&theme=radical" />
 </p>
