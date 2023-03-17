@@ -37,13 +37,13 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
   </a>
 </div>
 -->
-
+<h2 align="center"><i>Github Stats & Languages Used</i></h2>
 <div align="center">
   <a href="https://github.com/SahilPatel146/github-readme-stats"><img align="center"
       src="https://github-readme-stats.vercel.app/api?username=SahilPatel146&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
       alt="Sahil's github stats" height="170" /></a> 
 </div>
-
+<br/><br/>
 <div align="center">
   <img align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilPatel146&layout=compact&theme=buefy&hide_border=true"
