@@ -50,7 +50,6 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
       height="170" />
 </div>
 
-### Sahil's Streak Stats
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilPatel146&" alt="Sahil" /></p>
 <!-- 
 <h2 align='center'><i><a href="https://github.com/SahilPatel146">Activity Graph 📈</i></h2>
