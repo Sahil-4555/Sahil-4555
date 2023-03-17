@@ -38,16 +38,17 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
 </div>
 -->
 
-### Sahil's Github Stats
+<div align="center">
+  <a href="https://github.com/SahilPatel146/github-readme-stats"><img align="center"
+      src="https://github-readme-stats.vercel.app/api?username=SahilPatel146&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
+      alt="Sahil's github stats" height="170" /></a> 
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SahilPatel146&show_icons=true&theme=radical" />
-</p>
-
-### Most used languages
-<p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilPatel146&layout=compact&theme=radical" />
-</p>
+<div align="center">
+   href="https://github.com/SahilPatel146/github-readme-stats"><img align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilPatel146&layout=compact&theme=buefy&hide_border=true"
+      height="170" /></a>
+</div>
 
 ### Sahil's Streak Stats
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilPatel146&" alt="Sahil" /></p>
