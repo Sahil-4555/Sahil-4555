@@ -45,9 +45,9 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
 </div>
 
 <div align="center">
-   href="https://github.com/SahilPatel146/github-readme-stats"><img align="center"
+  <img align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilPatel146&layout=compact&theme=buefy&hide_border=true"
-      height="170" /></a>
+      height="170" />
 </div>
 
 ### Sahil's Streak Stats
