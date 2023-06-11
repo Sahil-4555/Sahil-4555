@@ -1,33 +1,25 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+To+Meet+You!&center=true&size=30">
-  </a>
-</h1>
+<p align="center">
+<!-- <img src="assets/Profile%20Banner.gif" alt="Sahil Sojitra's   Profile Banner" /> -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Playball&color=14E3F7FF&size=45&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+Sahil+Sojitra's+Github+Profile..." alt="Sahil Sojitra's Profile Banner" />
+</p>
 
-I'm a passionate developer with expertise in Flutter, Golang, and Competitive Programming. I love to code and solve complex problems. As a Flutter developer, I have experience building beautiful and responsive cross-platform mobile applications. I'm also skilled in Golang, which I use for building high-performance web applications and microservices. Additionally, I enjoy participating in competitive programming contests and have honed my problem-solving skills through various coding challenges. Let's connect and build something amazing together!✨
+###
+I'm a passionate developer with expertise in C++, Golang and Competitive Programming. I love to code and solve complex problems. I'm also skilled in Golang, which I use for building high-performance web applications and microservices. Additionally, I enjoy participating in competitive programming contests and have honed my problem-solving skills through various coding challenges. Let's connect and build something amazing together!✨
 
 <br />
 
-### 🧐 More About Me:
-
-<img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
-
-- 🏫 &nbsp; I'm Student at Charotar University of Science & Technology completing my Bachelor's in Information Technology
-- 🌱 &nbsp; I’m currently learning **C#, Cloud Computing, Golang**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Sahil-4555?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/sahilsojitra/)
-- ⚡ &nbsp; Fun fact: I :heart: :man_technologist:
+<div>
+  
+## 👨🏻‍💻 More About Me:
+  
+- 🎓 &nbsp; I'm Student at Charotar University of Science & Technology Completing My Bachelor's in Information Technology.
+- 💡 &nbsp; I Like to Explore New Technologies and Develop Software Solutions and Quick Hacks.
+- 💬 &nbsp; Ask Me About Anything Tech Related, I am Happy to Help.
+- 📫 &nbsp; Feel Free To Ping Me On [LinkedIn](https://www.linkedin.com/in/sahilsojitra/)
  <p align="left">
 </p>
-<br/> <br/> <br/> <br/> <br/> <br/> <br/>
-<hr/>
-<p align="center">
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/sahilsojitra/"><img title="LinkedIn" src="https://github.com/Sahil-4555/Sahil-4555/blob/main/assets/Icons/linkedin.svg"/></a>&nbsp;&nbsp;
-<a href="https://github.com/Sahil-4555"><img title="GitHub" src="https://github.com/Sahil-4555/Sahil-4555/blob/main/assets/Icons/github.svg"/></a>&nbsp;&nbsp;
-<hr/>
+  </div>
+  <br />
 <!--
 <hr>
 <h2>Watch my contributions graph eaten by snake 🐍</h2>
@@ -37,8 +29,20 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
   </a>
 </div>
 -->
-<h2 align="center">Github Stats & Languages Used</h2>
 <div align="center">
+
+## GitHub Analytics
+<a href="https://github.com/Sahil-4555" target="_blank">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sahil-4555&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ddd7&hide_border=false&border_color=FFFFFF"/>
+  <br />
+<a href="https://github.com/Sahil-4555" target="_blank">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-4555&layout=compact&hide=handlebars&theme=algolia&bg_color=0D1117&hide_border=false&&title_color=00ddd7&border_color=FFFFFF" alt="Sahil Sojitra's Most UsedLlanguages"/>
+ <br />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Sahil-4555&theme=dark&background=0D1117&hide_border=&border_color=FFFFFF&ring=00DDD7&fire=00DDD7&stroke=F1F1F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00DDD7&dates=CACACA" alt="Sahil Sojitra's Streaks" />
+</a>
+  </div>
+  <br />
+<!-- <div align="center">
   <a href="https://github.com/Sahil-4555/github-readme-stats"><img align="center"
       src="https://github-readme-stats.vercel.app/api?username=Sahil-4555&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
       alt="Sahil's github stats" height="170" /></a> 
@@ -50,7 +54,7 @@ I'm a passionate developer with expertise in Flutter, Golang, and Competitive Pr
       height="170" />
 </div>
 <br/><br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-4555&" alt="Sahil" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-4555&" alt="Sahil" /></p> -->
 <!-- 
 <h2 align='center'><i><a href="https://github.com/Sahil-4555">Activity Graph 📈</i></h2>
 <p align="center">
