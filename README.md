@@ -1,85 +1,36 @@
 <p align="center">
-<!-- <img src="assets/Profile%20Banner.gif" alt="Sahil Sojitra's   Profile Banner" /> -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Playball&color=14E3F7FF&size=45&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+Sahil+Sojitra's+Github+Profile..." alt="Sahil Sojitra's Profile Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00DDD7&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Sahil;Tech+Enthusiast+%7C+Problem-Solver;Turning+Ideas+into+Reality" alt="Typing SVG">
 </p>
 
-###
-I'm a passionate developer with expertise in C++, Golang and Competitive Programming. I love to code and solve complex problems. I'm also skilled in Golang, which I use for building high-performance web applications and microservices. Additionally, I enjoy participating in competitive programming contests and have honed my problem-solving skills through various coding challenges. Let's connect and build something amazing together!✨
-
-<br />
-
-<div>
-  
-## 👨🏻‍💻 More About Me:
-  
-- 🎓 &nbsp; I'm Student at Charotar University of Science & Technology Completing My Bachelor's in Information Technology.
-- 💡 &nbsp; I Like to Explore New Technologies and Develop Software Solutions and Quick Hacks.
-- 💬 &nbsp; Ask Me About Anything Tech Related, I am Happy to Help.
-- 📫 &nbsp; Feel Free To Ping Me On [LinkedIn](https://www.linkedin.com/in/sahilsojitra/)
- <p align="left">
-</p>
-  </div>
-  <br />
-<!--
-<hr>
-<h2>Watch my contributions graph eaten by snake 🐍</h2>
-<div align="center">
-<a href="https://github.com/Sahil-4555">
-    <img src="https://github.com/Sahil-4555/Sahil-4555/blob/output/github-contribution-grid-snake.gif" width="100%">
-  </a>
-</div>
--->
-<div align="center">
-
-## GitHub Analytics
-<a href="https://github.com/Sahil-4555" target="_blank">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sahil-4555&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ddd7&hide_border=false&border_color=FFFFFF"/>
-  <br />
-<a href="https://github.com/Sahil-4555" target="_blank">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-4555&layout=compact&hide=handlebars&theme=algolia&bg_color=0D1117&hide_border=false&&title_color=00ddd7&border_color=FFFFFF" alt="Sahil Sojitra's Most UsedLlanguages"/>
- <br />
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Sahil-4555&theme=dark&background=0D1117&hide_border=&border_color=FFFFFF&ring=00DDD7&fire=00DDD7&stroke=F1F1F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00DDD7&dates=CACACA" alt="Sahil Sojitra's Streaks" />
-</a>
-  </div>
-  <br />
-<!-- <div align="center">
-  <a href="https://github.com/Sahil-4555/github-readme-stats"><img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=Sahil-4555&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
-      alt="Sahil's github stats" height="170" /></a> 
-</div>
-<br/><br/>
-<div align="center">
-  <img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-4555&layout=compact&theme=buefy&hide_border=true"
-      height="170" />
-</div>
-<br/><br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-4555&" alt="Sahil" /></p> -->
-<!-- 
-<h2 align='center'><i><a href="https://github.com/Sahil-4555">Activity Graph 📈</i></h2>
 <p align="center">
-  <a href="https://github.com/Sahil-4555">
-    <img
-      src="https://activity-graph.herokuapp.com/graph?username=Sahil-4555&custom_title=Sahil's%20Contribution%20Graph&theme=github&area=true&hide_border=true"
-      width="100%">
-  </a>
+  <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NoSQL-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WebSocket-4F5D95?style=flat-square&logo=websocket&logoColor=white" />
 </p>
--->
 
 
-<!-- <h2 align="center"><i>🎵 Spotify Status</i></h2>
-<p align="center">
-  <a href="https://open.spotify.com/user/0r6t956lbmezmq8uw79uud2wu">
-    <img src="https://SahilPatel146.vercel.app/api?rainbow=true&scan=true&spin=true&theme=dark" width="60%">
-  </a>
-</p>
--->
+## 🚀 About Me
+- 🛠️ Associate Software Engineer at [MindInventory](https://www.mindinventory.com/)<br>
+- 🌟 Passionate about exploring and mastering new technologies.<br>
+- 🤝 Enthusiastic about collaborating on tech projects and finding innovative solutions.<br>
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/sahilsojitra/).
 
+## 📊 GitHub Analytics
 <div align="center">
-
-  ## Visitor Count
-  <a href="https://profile-counter.glitch.me/Sahil-4555/count.svg"><img align="center"
-      src="https://profile-counter.glitch.me/Sahil-4555/count.svg" alt="Sahil's visitor count" /></a>
+  <a href="https://github.com/Sahil-4555" target="_blank">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sahil-4555&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ddd7&hide_border=false&border_color=FFFFFF" alt="GitHub Stats"/>
+    <br /><br/>
+    <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=Sahil-4555&theme=dark&background=0D1117&hide_border=&border_color=FFFFFF&ring=00DDD7&fire=00DDD7&stroke=F1F1F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00DDD7&dates=CACACA" alt="GitHub Streak"/>
+  </a>
 </div>
 
-<!-- <img src="assets/footer.png" alt="Footer image"> -->
+## 👁️ Visitor Count
+<div align="center">
+  <a href="https://profile-counter.glitch.me/Sahil-4555/count.svg">
+    <img src="https://profile-counter.glitch.me/Sahil-4555/count.svg" alt="Visitor Count"/>
+  </a>
+</div>
