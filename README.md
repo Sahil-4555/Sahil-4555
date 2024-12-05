@@ -14,7 +14,6 @@
 
 
 ## 🚀 About Me
-- 🛠️ Associate Software Engineer at [MindInventory](https://www.mindinventory.com/)<br>
 - 🌟 Passionate about exploring and mastering new technologies.<br>
 - 🤝 Enthusiastic about collaborating on tech projects and finding innovative solutions.<br>
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/sahilsojitra/).
