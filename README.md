@@ -1,35 +1,39 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00DDD7&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Sahil;Tech+Enthusiast+%7C+Problem-Solver;Turning+Ideas+into+Reality" alt="Typing SVG">
-</p>
+### Hi there 👋 I'm Sahil
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NoSQL-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-WebSocket-4F5D95?style=flat-square&logo=websocket&logoColor=white" />
-</p>
+Reviewing, learning, and contributing — here are some of my open-source contributions:
+
+- [prysm](https://github.com/OffchainLabs/prysm/pull/15625) – Refactoring  
+- [uint256](https://github.com/holiman/uint256/pull/195) –  in-place operations to allow method chaining  
+- [goevmlabs](https://github.com/holiman/goevmlab/pull/212) – Refactoring & Optimization  
+
+### Contact
+
+Direct message or tag [me on 𝕏](https://x.com/last__knight/) for the best response times.
 
 
-## 🚀 About Me
-- 🌟 Passionate about exploring and mastering new technologies.<br>
-- 🤝 Enthusiastic about collaborating on tech projects and finding innovative solutions.<br>
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/sahilsojitra/).
+<!--
+# Achievements
+ - [Curta](https://x.com/curta_ctf/status/1769160923812393314) Gas Optimization Challenage
+ - [Huffathon](https://github.com/user-attachments/assets/53e10d5a-0c7f-4912-a42e-04a3c02028a8) Optimizor War
 
-## 📊 GitHub Analytics
-<div align="center">
-  <a href="https://github.com/Sahil-4555" target="_blank">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sahil-4555&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ddd7&hide_border=false&border_color=FFFFFF" alt="GitHub Stats"/>
-    <br /><br/>
-    <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=Sahil-4555&theme=dark&background=0D1117&hide_border=&border_color=FFFFFF&ring=00DDD7&fire=00DDD7&stroke=F1F1F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00DDD7&dates=CACACA" alt="GitHub Streak"/>
-  </a>
-</div>
 
-## 👁️ Visitor Count
-<div align="center">
-  <a href="https://profile-counter.glitch.me/Sahil-4555/count.svg">
-    <img src="https://profile-counter.glitch.me/Sahil-4555/count.svg" alt="Visitor Count"/>
-  </a>
-</div>
+<### Contact
+
+Direct message or tag [me on 𝕏](x.com/last__knight/) for the best response times.
+ -->
+
+
+<!--
+**Sahil-4555/Sahil-4555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
