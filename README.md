@@ -2,9 +2,12 @@
 
 Reviewing, learning, and contributing — here are some of my open-source contributions:
 
-- [prysm](https://github.com/OffchainLabs/prysm/pull/15625) – Refactoring  
-- [uint256](https://github.com/holiman/uint256/pull/195) –  in-place operations to allow method chaining  
-- [goevmlabs](https://github.com/holiman/goevmlab/pull/212) – Refactoring & Optimization  
+- [prysm](https://github.com/OffchainLabs/prysm/pulls?q=is%3Apr+author%3ASahil-4555+is%3Aopen%26closed+) – Refactoring  
+- [uint256](https://github.com/holiman/uint256/pulls?q=is%3Aopen%26closed+is%3Apr+author%3ASahil-4555+) –  in-place operations to allow method chaining  
+- [goevmlabs](https://github.com/holiman/goevmlab/pulls?q=is%3Apr+is%3Aclosed%26open+author%3ASahil-4555+) – Refactoring & Optimization
+- [erigon](https://github.com/erigontech/erigon/pulls?q=is%3Aopen%26closed+is%3Apr+author%3ASahil-4555+) - Refactoring & Optimization
+- [go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Aopen%26closed+is%3Apr+author%3ASahil-4555+) - Refactoring & Optimization
+- [dynamic-ssz](https://github.com/pk910/dynamic-ssz/pulls?q=is%3Aopen%26closed+is%3Apr+author%3ASahil-4555+) - Refactoring & Optimization
 
 ### Contact
 
