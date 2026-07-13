@@ -2,7 +2,7 @@
 
 Reviewing, learning, and contributing — here are some of my open-source contributions:
 
-- [erigon](https://github.com/erigontech/erigon/pulls?q=is%3Aopen%26closed+is%3Apr+author%3ASahil-4555+)
+- collaborator [@erigon](https://github.com/erigontech/erigon/pulls?q=is%3Aopen%26closed+is%3Apr+author%3ASahil-4555+)
 - [prysm](https://github.com/OffchainLabs/prysm/pulls?q=is%3Apr+author%3ASahil-4555+is%3Aopen%26closed+)  
 - [uint256](https://github.com/holiman/uint256/pulls?q=is%3Aopen%26closed+is%3Apr+author%3ASahil-4555+)
 - [goevmlabs](https://github.com/holiman/goevmlab/pulls?q=is%3Apr+is%3Aclosed%26open+author%3ASahil-4555+)
